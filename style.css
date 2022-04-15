@@ -1,0 +1,18 @@
+body{
+    background-color: #EAF6F6;
+}
+.container {
+    background-color: #66BFBF;
+}
+.ft{
+    height: 85px;
+    background-color: #F76B8A;
+    position: absolute;
+    bottom: 0px;
+    width: 100vw;
+    text-align: center;
+  
+}
+.ft p{
+    padding-top: 30px;
+}
